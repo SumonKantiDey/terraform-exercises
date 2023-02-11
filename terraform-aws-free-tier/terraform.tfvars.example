@@ -1,6 +1,6 @@
 access_key    = ""
 secret_key    = ""
-image_id      = "ami-05375ba8414409b07"
+image_id      = "ami-123456789"
 instance_type = "t2.micro"
 region        = "ap-northeast-1"
 ec2_key_name  = "free-tier-ec2-key-name"

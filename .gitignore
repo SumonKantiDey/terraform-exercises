@@ -6,3 +6,4 @@
 
 # all rsa file
 *id_rsa*
+**/backend/config.tf

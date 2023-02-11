@@ -1,6 +1,8 @@
+terraform {
+  backend "s3" {}
+}
 
 # call module (ec2) by passing value 
-
 module "mywebserver" {
   source             = "./modules/ec2"
   ec2_key_name       = var.ec2_key_name
